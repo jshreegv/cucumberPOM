@@ -1,0 +1,6 @@
+com\salesforce\homepages\HomePage.class
+com\salesforce\loginpages\ForgotPasswordPage.class
+com\salesforce\runner\SalesforceRunnerTest.class
+com\salesforce\cucumber\base\BaseTest.class
+com\salesforce\steps\StepDefinitions.class
+com\salesforce\loginpages\LoginPage.class
